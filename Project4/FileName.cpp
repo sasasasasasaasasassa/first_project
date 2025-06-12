@@ -2,5 +2,8 @@
 
 int main()
 {
-	std::cout << "Hello SASA!" << std::endl;
+	int num;
+	cout << "Enter num: ";
+	cin >> num;
+	cout << num << endl;
 }
